@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 3 ictal / tail -n 1
+head -n 3 ictal / tai1 -n 1
